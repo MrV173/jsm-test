@@ -1,0 +1,6 @@
+GET http://localhost:5000/foods
+
+###
+
+POST http://localhost:5000/transaction/2
+Content-Type: application/json
