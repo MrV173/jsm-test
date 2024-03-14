@@ -38,3 +38,5 @@ node index.js
 ```
 
 ### Untuk Menambahkan product, gunakan Icon yang terletak pada pojok kiri atas
+
+### Saya Memisahkan Backend dan Frontend nya di Branch yang berbeda. Untuk Bagian Frontend Ada di Branch Frontend. Dan Untuk Backend Berada di Branch Master.
